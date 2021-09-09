@@ -23,12 +23,21 @@ So how?
 ## Screenshots
 
 Splash Screen
+
+
+
 ![Uygulama Ekran Görüntüsü](https://github.com/berfingrz/city-travel-guide/blob/92a3370f39e8bb231feb571fc56dc75e810efb42/screenshots/splash.png)
 
 Home Page
+
+
+
 ![Uygulama Ekran Görüntüsü](https://github.com/berfingrz/city-travel-guide/blob/92a3370f39e8bb231feb571fc56dc75e810efb42/screenshots/homepage.png)
 
 Info Page
+
+
+
 ![Uygulama Ekran Görüntüsü](https://github.com/berfingrz/city-travel-guide/blob/92a3370f39e8bb231feb571fc56dc75e810efb42/screenshots/infopage.png)
 
 ** And, another screenshots is inside the "screetshots" folder.**
